@@ -1,0 +1,1 @@
+./mklive.sh -p "xorg MultiMC openbox nitrogen" -I rootdir/
